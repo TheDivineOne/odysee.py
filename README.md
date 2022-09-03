@@ -2,7 +2,7 @@
 Usage example:
 ```
 import odysee
-metadata = getVideoMetadata("https://odysee.com/@DivineSoftware:8/noclip")
+metadata = odysee.getVideoMetadata("https://odysee.com/@DivineSoftware:8/noclip")
 print(metadata)
 ```
 ```
