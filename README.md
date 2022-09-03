@@ -1,6 +1,6 @@
 # odysee.py
 Usage example:
-```
+```python
 import odysee
 metadata = odysee.getVideoMetadata("https://odysee.com/@DivineSoftware:8/noclip")
 print(metadata)
